@@ -9,7 +9,7 @@ export const BASE_CARD_HEIGHT = layout.baseModule * 12;
 
 export const SPEND_DIAMETER = BOX_WIDTH - layout.baseModule * 2;
 
-export const yCoordCardA = layout.baseModule * 3;
+export const yCoordCardA = layout.baseModule * 5;
 export const yCoordCardB = yCoordCardA + layout.baseModule * 7;
 export const yCoordCardC =
   yCoordCardB + BASE_CARD_HEIGHT + layout.baseModule * 2;
